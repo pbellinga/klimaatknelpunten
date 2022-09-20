@@ -1,0 +1,5 @@
+- Er is afgesproken dat er een nationaal plan voor het nieuwe energiesysteem van 2050 voor Nederland moet komen.
+- Het [[energiesysteem]] wordt als volgt gedefinieerd: "Dit omvat niet alleen vraag en aanbod van energiebronnen en -dragers, maar ook grondstoffen die hieruit zijn gemaakt zoals H2, en niet-energetische stoffen zoals CO2 en de infrastructuur die nodig is om vraag en aanbod van energie en grondstoffen te verbinden."
+- In de kamerbrief staat: "In 2030 zal zo’n 75% van de geproduceerde elektriciteit uit wind en zon komen."
+- Om daar te komen is onder andere het [[(MIEK) : Meerjarenprogramma Infrastructuur Energie en Klimaat]] gestart.
+-

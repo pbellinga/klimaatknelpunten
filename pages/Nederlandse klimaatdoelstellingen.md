@@ -1,0 +1,4 @@
+- In [[2030]] : 55% reductie van CO2e ten opzichte van 1990
+	- TODO de 55% komt van de [[Fit For 55]] EU voorstel. Is die ook al officieel overgenomen door de Nederlandse overheid?
+- In [[2050]] : CO2(e) neutraal
+	- TODO hoe is het precies gedefinieerd?
