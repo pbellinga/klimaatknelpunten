@@ -1,0 +1,8 @@
+- Verdeling van reductie van 49 Mton voor [[2030]] (zal nog iets omhoog moeten waarschijnlijk)
+	- Elektriciteit 20,2 Mton
+		- TODO hoe is dit precies bedoeld? Is dit vooral de opwekking van elektriciteit? Dus vanuit duurzame bronnen in plaats van kolen en andere fossiele bronnen?
+	- Industrie 14,3 Mton
+		- TODO is dit dan gedefinieerd als pure reductie? Want anders overlap met elektriciteit?
+	- Gebouwde omgeving 3,4 Mton
+	- Mobiliteit 7,3 Mton
+	- Landbouw en landgebruik 3,5 Mton

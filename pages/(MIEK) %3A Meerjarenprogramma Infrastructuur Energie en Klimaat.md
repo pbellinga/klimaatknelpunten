@@ -4,6 +4,8 @@ title:: (MIEK) : Meerjarenprogramma Infrastructuur Energie en Klimaat
 - Het MIEK beschrijft die energie- en grondstoffen-infrastructuurprojecten
    die het kabinet nu wil oppakken om zo versneld bij te dragen aan het 
   verduurzamen van de industrie.
+- Het doel is om met meer regie en wegnemen van knelpunten besluitvorming
+  van projecten te versnellen en systeemintegratie te bereiken voor de aanleg van energie- en grondstoffen-infrastructuur.
 - De projecten komen voort uit de energiestrategieën van de zes 
   Nederlandse industriële clusters, de zogenoemde Cluster Energiestrategie
    (CES)
@@ -19,4 +21,6 @@ title:: (MIEK) : Meerjarenprogramma Infrastructuur Energie en Klimaat
 	- TODO : hoeveel reductie van CO2 in Mton dient er voor 2030 gerealiseerd te worden?
 - Het [[MIEK 2021]] is hier te downloaden: https://open.overheid.nl/repository/ronl-e96fcc00-2650-4065-84e7-a4a5a2350bbf/1/pdf/meerjarenprogramma-infrastructuur-energie-en-klimaat.pdf
 - Deze informatie is afkomstig van: https://www.rijksoverheid.nl/documenten/rapporten/2021/11/26/meerjarenprogramma-infrastructuur-energie-en-klimaat---overzicht-2021
--
+- De [[MIEK 2021]] beschrijft een aantal projecten:
+	- Verzwaring Elektriciteitsnet Noordzeekanaalgebied
+	-
