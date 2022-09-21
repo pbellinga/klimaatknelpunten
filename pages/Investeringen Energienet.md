@@ -1,0 +1,5 @@
+- tot 2030 investeren de netbeheerders 40 miljard2 in het net
+	- Bronnen:
+		- https://www.netbeheernederland.nl/_upload/Files/Basisdocument_over_energie-infrastructuur_143.pdf
+		- https://www.netbeheernederland.nl/nieuws/pwc-rapport-tijdige-ombouw-energiesysteem-in-gevaar-door-onvoldoende-financieringsmogelijkheden-1448
+-

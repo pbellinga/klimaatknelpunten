@@ -1,0 +1,5 @@
+- Meer info te vinden op : https://www.regionale-energiestrategie.nl/default.aspx
+- Het betreft 30 RES regio's waarin wind- zon- en warmtenetten gepland worden
+- Hier staat de lijst van regio's: https://www.regionale-energiestrategie.nl/resregios/default.aspx
+- De voortgang en prognose over de haalbaarheid van de plannen van de RESsen worden (eenmaal per jaar) getoetst door het [[PBL]] in de [[Monitor RES]]
+-

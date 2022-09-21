@@ -1,0 +1,3 @@
+- Hier is de [[Monitor RES 1.0]] te vinden, de eerste monitor met prognoses over de haalbaarheid van de plannen van de [[RES (Regionale Energie Strategie)]]-sen.
+	- https://www.pbl.nl/publicaties/monitor-res-1.0
+- Het rapport is gepubliceerd in december 2021, op basis van de 1.0 plannen die de RESsen hebben aangeboden in juli 2021.

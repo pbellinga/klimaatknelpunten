@@ -1,0 +1,3 @@
+- Netcongestie betekent dat er meer transport (invoer of afname) gevraagd wordt dan mogelijk. Er ontstaat dan 'filevorming' op het elektriciteitsnet.
+- [[Netbeheer Nederland]] heeft een [[online plattegrond van netcongestie]] ontwikkeld. https://energyproof.nl/netbeheer-nederland-ontwikkelt-interactieve-kaart-met-transportindicatie/
+-
